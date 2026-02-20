@@ -33,7 +33,7 @@ FileMover uses **TAP RPA modals** for the GUI interface and **C# scripting with 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/FileMover.git
+   git clone https://github.com/alexcontz/FileMover-TAP_RPA
 2. Open the project in **TAP Talent Studio**.  
 3. Ensure **C# scripting support** is enabled in TAP.  
 4. Build and run the project.  
