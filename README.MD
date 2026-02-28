@@ -17,6 +17,20 @@
 
 ---
 
+## Screenshots
+
+![workflow_overview](./Screenshots/workflow_overview.png)
+---
+![workflow_1](./Screenshots/workflow_1.png)
+---
+![workflow_2](./Screenshots/workflow_2.png)
+---
+![workflow_3](./Screenshots/workflow_3.png)
+---
+![config](./Screenshots/config.png)
+
+---
+
 ## How It Works
 
 1. **Select Folders:** Choose one or more folders to scan and sort.  
