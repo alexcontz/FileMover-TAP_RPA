@@ -1,6 +1,6 @@
 # FileMover
 
-**FileMover** is an automation tool built using the **TAP Talent framework** for RPA (Robotic Process Automation) and **C# scripting**. It helps you organize your files and documents by automatically sorting and placing scrambled files into neatly arranged folders. Designed to integrate seamlessly with other TAP RPA programs, FileMover streamlines workflows, increases productivity, and keeps your workspace tidy.  
+**FileMover** is an automation tool built using the **TAP Talent framework** for RPA (Robotic Process Automation) and **C# scripting** available tailent.com . It helps you organize your files and documents by automatically sorting and placing scrambled files into neatly arranged folders. Designed to integrate seamlessly with other TAP RPA programs, FileMover streamlines workflows, increases productivity, and keeps your workspace tidy.  
 
 ---
 
@@ -111,5 +111,5 @@ This project is licensed under the GNU General Public License. See the [LICENSE]
 
 ## Contact
 
-Created by **[Alexandru-Ioan Contz](https://github.com/alexcontz)**.  
+Created by **[Alexandru-Ioan Contz](https://github.com/alexcontz)** and Deac Ștefan.  
 For questions, suggestions, or support, open an issue in this repository.
