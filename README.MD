@@ -105,11 +105,11 @@ Ensure your code is compatible with **TAP Talent RPA** and follows the existing 
 
 ## License
 
-This project is licensed under the GNU General Public License. See the [LICENSE](LICENSE.MD) file for details.  
+This project is licensed under the MIT license. See the [LICENSE](LICENSE.MD) file for details.  
 
 ---
 
 ## Contact
 
-Created by **[Alexandru-Ioan Contz](https://github.com/alexcontz)** and Deac Ștefan.  
+Created by **[Alexandru-Ioan Contz](https://github.com/alexcontz)** and **[Deac Ștefan](https://github.com/Stefan-cs-sudo)**.  
 For questions, suggestions, or support, open an issue in this repository.
